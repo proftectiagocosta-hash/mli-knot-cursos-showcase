@@ -70,6 +70,11 @@ Ele não contém:
 - [`docs/roadmap.md`](docs/roadmap.md)
 - [`docs/screenshots/README.md`](docs/screenshots/README.md)
 
+### Licença e aviso
+
+- [LICENSE.md](LICENSE.md)
+- [NOTICE.md](NOTICE.md)
+
 ### Relação com o projeto principal
 
 O projeto principal **MLI-Knot-Cursos** permanece privado neste momento.
@@ -158,3 +163,4 @@ State: initial public sanitized documentation
 - [Tiago Costa / Tendoshk profile](https://github.com/proftectiagocosta-hash)
 - [Project Map](https://github.com/proftectiagocosta-hash/proftectiagocosta-hash/blob/main/PROJECT_MAP.md)
 - [MLI-Knot Mind Public](https://github.com/proftectiagocosta-hash/mli-knot-mind-public)
+
