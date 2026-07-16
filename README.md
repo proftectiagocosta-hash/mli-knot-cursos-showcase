@@ -67,6 +67,9 @@ Ele não contém:
 - [`docs/overview.md`](docs/overview.md)
 - [`docs/public-boundary.md`](docs/public-boundary.md)
 
+- [`docs/overview.md`](docs/overview.md)
+- [`docs/public-boundary.md`](docs/public-boundary.md)
+
 - [`docs/course-flow.md`](docs/course-flow.md)
 - [`docs/student-progress.md`](docs/student-progress.md)
 - [`docs/certificate-flow.md`](docs/certificate-flow.md)
