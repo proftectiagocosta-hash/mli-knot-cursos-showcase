@@ -66,10 +66,6 @@ Ele não contém:
 
 - [`docs/overview.md`](docs/overview.md)
 - [`docs/public-boundary.md`](docs/public-boundary.md)
-
-- [`docs/overview.md`](docs/overview.md)
-- [`docs/public-boundary.md`](docs/public-boundary.md)
-
 - [`docs/course-flow.md`](docs/course-flow.md)
 - [`docs/student-progress.md`](docs/student-progress.md)
 - [`docs/certificate-flow.md`](docs/certificate-flow.md)
@@ -169,5 +165,6 @@ State: initial public sanitized documentation
 - [Tiago Costa / Tendoshk profile](https://github.com/proftectiagocosta-hash)
 - [Project Map](https://github.com/proftectiagocosta-hash/proftectiagocosta-hash/blob/main/PROJECT_MAP.md)
 - [MLI-Knot Mind Public](https://github.com/proftectiagocosta-hash/mli-knot-mind-public)
+
 
 
